@@ -1,0 +1,6 @@
+# cakephp
+cake/
+#
+app/tmp/*
+app/logs/*
+app/webroot/capture/*
